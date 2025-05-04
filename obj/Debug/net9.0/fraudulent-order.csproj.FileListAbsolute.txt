@@ -1,0 +1,15 @@
+E:\Users\Arief\Coding\c sharp\fraudulent-order\bin\Debug\net9.0\fraudulent-order.exe
+E:\Users\Arief\Coding\c sharp\fraudulent-order\bin\Debug\net9.0\fraudulent-order.deps.json
+E:\Users\Arief\Coding\c sharp\fraudulent-order\bin\Debug\net9.0\fraudulent-order.runtimeconfig.json
+E:\Users\Arief\Coding\c sharp\fraudulent-order\bin\Debug\net9.0\fraudulent-order.dll
+E:\Users\Arief\Coding\c sharp\fraudulent-order\bin\Debug\net9.0\fraudulent-order.pdb
+E:\Users\Arief\Coding\c sharp\fraudulent-order\obj\Debug\net9.0\fraudulent-order.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Arief\Coding\c sharp\fraudulent-order\obj\Debug\net9.0\fraudulent-order.AssemblyInfoInputs.cache
+E:\Users\Arief\Coding\c sharp\fraudulent-order\obj\Debug\net9.0\fraudulent-order.AssemblyInfo.cs
+E:\Users\Arief\Coding\c sharp\fraudulent-order\obj\Debug\net9.0\fraudulent-order.csproj.CoreCompileInputs.cache
+E:\Users\Arief\Coding\c sharp\fraudulent-order\obj\Debug\net9.0\fraudulent-order.sourcelink.json
+E:\Users\Arief\Coding\c sharp\fraudulent-order\obj\Debug\net9.0\fraudulent-order.dll
+E:\Users\Arief\Coding\c sharp\fraudulent-order\obj\Debug\net9.0\refint\fraudulent-order.dll
+E:\Users\Arief\Coding\c sharp\fraudulent-order\obj\Debug\net9.0\fraudulent-order.pdb
+E:\Users\Arief\Coding\c sharp\fraudulent-order\obj\Debug\net9.0\fraudulent-order.genruntimeconfig.cache
+E:\Users\Arief\Coding\c sharp\fraudulent-order\obj\Debug\net9.0\ref\fraudulent-order.dll
